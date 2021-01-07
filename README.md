@@ -6,3 +6,15 @@ A simple web app API that stores information on monsters that are created by use
 
 - Ruby on Rails
 - Heroku
+
+## Links
+- Backend:
+- Frontend: 
+
+## Future Enchancements
+- Allow users to add photos
+- Allow users to add locations
+
+## Unsolved Issues
+
+## 
