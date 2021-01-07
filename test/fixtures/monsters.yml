@@ -2,12 +2,12 @@
 
 one:
   name: MyString
-  height: 1
-  weight: 1
+  height: 9.99
+  weight: 9.99
   description: MyString
 
 two:
   name: MyString
-  height: 1
-  weight: 1
+  height: 9.99
+  weight: 9.99
   description: MyString
