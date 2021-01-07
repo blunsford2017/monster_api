@@ -17,4 +17,4 @@ A simple web app API that stores information on monsters that are created by use
 
 ## Unsolved Issues
 
-## 
+## Notes to Team
