@@ -26,4 +26,5 @@ A simple web app API that stores information on monsters that are created by use
 
 ## Link to Live Deployment
 
-![Monster Maker](https://monster-app-api.herokuapp.com/)
+![Monster Maker](https://monster-client-frontend.herokuapp.com/)
+![Monster Maker API](https://monster-app-api.herokuapp.com/)
